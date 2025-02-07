@@ -4,6 +4,12 @@ looking.bigmelook.com
 # 延迟url
 www.gstatic.com
 www.google.com
+www.google-analytics.com
+connectivitycheck.gstatic.com
+captive.apple.com
+www.apple.com
+www.msftconnecttest.com
+cp.cloudflare.com
 # 公益Emby
 9521732.xyz
 embyplus.org
@@ -13,3 +19,6 @@ tanhuatv.site
 pornemby.com
 emby.wtf
 misakaf.org
+# 源站ip
+ip:94.130.55.201
+ip:2a01:4f8:10b:2d6a::2
